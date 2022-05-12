@@ -9,7 +9,8 @@ This software provides tools for most common 2d and 3d plots.
 It can import data from different file types and preprocess and clean them.
 For detail tool list, check table below
 
-.. figure:: Figures/AsanPlot_Screenshot.png
+.. figure:: figures/AsanPlot_Screenshot.png
+
 
 :Name: AsanPlot
 :Description: Plotting software based on Matplotlib
@@ -35,21 +36,26 @@ To use AsanPlot download setup file, run it, and follow the steps:
 Features
 --------
 
-
-==============   ========================================   ======
-                 Feature                                    Status
-=============    ========================================   ======
 **Data**
-                 Import/browse/export data                  [+]
-                 Generate data                              [+]
-                 Data statistics                            [+]
+
+========================================   ======
+Feature                                    Status
+========================================   ======
+Import/browse/export data                  [+]
+Generate data                              [+]
+Data statistics                            [+]
+========================================   ======
 
 **Preprocess**
-                 Sort data                                  [+]
-                 Replace missing/outliers/value             [+]
-                 Find/fill gap                              [+]
-                 Remove duplicates                          [+]
-==============   ========================================   ======
+
+========================================   ======
+Feature                                    Status
+========================================   ======
+Sort data                                  [+]
+Replace missing/outliers/value             [+]
+Find/fill gap                              [+]
+Remove duplicates                          [+]
+========================================   ======
 
 **2D Plot**
 
