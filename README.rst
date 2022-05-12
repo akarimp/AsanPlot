@@ -35,21 +35,16 @@ To use AsanPlot download setup file, run it, and follow the steps:
 Features
 --------
 
-**Data**
 
 ========================================   ======
 Feature                                    Status
 ========================================   ======
+**Data**
 Import/browse/export data                  [+]
 Generate data                              [+]
 Data statistics                            [+]
-========================================   ======
 
 **Preprocess**
-
-========================================   ======
-Feature                                    Status
-========================================   ======
 Sort data                                  [+]
 Replace missing/outliers/value             [+]
 Find/fill gap                              [+]
