@@ -9,7 +9,7 @@ This software provides tools for most common 2d and 3d plots.
 It can import data from different file types and preprocess and clean them.
 For detail tool list, check table below
 
-.. figure:: figures/AsanPlot_Screenshot.png
+.. figure:: Figures/AsanPlot_Screenshot.png
 
 :Name: AsanPlot
 :Description: Plotting software based on Matplotlib
