@@ -14,9 +14,6 @@ For detail tool list, check table below
 :Version: 1.1
 :Requirements: Windows 10 - 64 bit
 :Developer: Arash Karimpour (http://www.arashkarimpour.com)
-:Documentation:
-:Tutorial Video:
-:Source Code:
 :Report Issues: https://github.com/akarimp/oceanlyz/issues
 
 |
