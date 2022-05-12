@@ -36,20 +36,20 @@ Features
 --------
 
 
-========================================   ======
-Feature                                    Status
-========================================   ======
+==============   ========================================   ======
+                 Feature                                    Status
+=============    ========================================   ======
 **Data**
-Import/browse/export data                  [+]
-Generate data                              [+]
-Data statistics                            [+]
+                 Import/browse/export data                  [+]
+                 Generate data                              [+]
+                 Data statistics                            [+]
 
 **Preprocess**
-Sort data                                  [+]
-Replace missing/outliers/value             [+]
-Find/fill gap                              [+]
-Remove duplicates                          [+]
-========================================   ======
+                 Sort data                                  [+]
+                 Replace missing/outliers/value             [+]
+                 Find/fill gap                              [+]
+                 Remove duplicates                          [+]
+==============   ========================================   ======
 
 **2D Plot**
 
