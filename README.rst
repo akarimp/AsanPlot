@@ -62,7 +62,7 @@ Feature                                    Status
 Line                                       [+]
 Scatter                                    [+]
 Bar                                        [+]
-Contour                                    [+]
+Contour/surface                            [+]
 Arrow                                      [+]
 Polar                                      [+]
 Errorbar                                   [+]
