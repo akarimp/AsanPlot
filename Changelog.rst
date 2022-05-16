@@ -12,6 +12,8 @@ What is new in ver 1.1:
 * Added signal processing: power spectral density, Fast Fourier Transform
 * Added map: topographic map, tomographic data, world map
 * Added help: subplot layout example, plot colormap, topographic colormap
+* Python verion: 3.9.12
+* Matplotlib verion: 3.5.2
 * Release date: 2022-05-16
 
 Version 1.0
