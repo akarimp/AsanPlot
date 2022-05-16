@@ -4,13 +4,12 @@ AsanPlot
 ========
 
 AsanPlot, is a free and easy to use plotting software based on the Matplotlib library for preparing high quality plots.
-
 This software provides features for the most common 2d and 3d plots.
 It can import data from different file types, preprocess, clean, analyze, and visualize them.
 
 Main features of AsanPlot are:
 
-* Data preprocessing
+​* Data preprocessing
 * 2D and 3D plotting
 * Plot customization
 * Data analysis
@@ -27,7 +26,7 @@ For detail list of features, check features section below.
 :Report Issues: https://github.com/akarimp/oceanlyz/issues
 
 |
-.. Figure:: Figures/AsanPlot_Screenshot.jpg
+.. Figure:: figures/AsanPlot_Screenshot.jpg
 |
 
 Installation
@@ -155,6 +154,7 @@ Recommended Books
        | Introduction to Scientific Computing, Data Analysis, and Data Visualization.
        |
        | Order at Amazon: https://www.amazon.com/dp/1735241016
+
 
 Citation
 --------
