@@ -9,6 +9,7 @@ This software provides features for the most common 2d and 3d plots.
 It can import data from different file types, preprocess, clean, analyze, and visualize them.
 
 Main features of AsanPlot are:
+
 * Data preprocessing
 * 2D and 3D plotting
 * Plot customization
