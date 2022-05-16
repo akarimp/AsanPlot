@@ -132,21 +132,29 @@ Topographic data                           [+]
 World map                                  [+]
 ========================================   ======
 
-Recommended Book
-----------------
+Recommended Books
+-----------------
 
-* | **Ocean Wave Data Analysis**
-  | Introduction to Time Series Analysis, Signal Processing, and Wave Prediction.
-  | Order at Amazon: https://www.amazon.com/dp/0692109978
-  |
-* | **Principles of Data Science with Python**
-  | Introduction to Scientific Computing, Data Analysis, and Data Visualization.
-  | Order at Amazon: https://www.amazon.com/dp/1735241008
-  |
-* | **Fundamentals of Data Science with MATLAB**
-  | Introduction to Scientific Computing, Data Analysis, and Data Visualization.
-  | Order at Amazon: https://www.amazon.com/dp/1735241016
+.. list-table::
+   :header-rows: 1
+   :align: center
 
+   * - .. figure:: figures/Figure_Book_Coastal.jpg
+     - .. figure:: figures/Figure_Book_Python.jpg
+     - .. figure:: figures/Figure_Book_Matlab.jpg
+
+   * - | **Ocean Wave Data Analysis**
+       | Introduction to Time Series Analysis, Signal Processing, and Wave Prediction.
+       |
+       | Order at Amazon: https://www.amazon.com/dp/0692109978
+     - | **Principles of Data Science with Python**
+       | Introduction to Scientific Computing, Data Analysis, and Data Visualization.
+       |
+       | Order at Amazon: https://www.amazon.com/dp/1735241008
+     - | **Fundamentals of Data Science with MATLAB**
+       | Introduction to Scientific Computing, Data Analysis, and Data Visualization.
+       |
+       | Order at Amazon: https://www.amazon.com/dp/1735241016
 
 Citation
 --------
