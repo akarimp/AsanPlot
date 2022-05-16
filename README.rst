@@ -27,7 +27,7 @@ To use AsanPlot download setup file, run it, and follow the steps:
 
 * Download AsanPlot:
 
-    * Version 1.1 (GitHub): https://github.com/akarimp/oceanlyz/releases/download/2.0/oceanlyz_2_0.zip
+    * Version 1.1 (GitHub): https://github.com/akarimp/AsanPlot/releases/download/1.1/asanplot_1.1_win_x64_setup.exe
 
 
 Features
