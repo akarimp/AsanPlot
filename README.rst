@@ -3,11 +3,20 @@
 AsanPlot
 ========
 
-AsanPlot, is a plotting software based on Matplotlib for preparing high quality plots.
+AsanPlot, is a free and easy to use plotting software based on the Matplotlib library for preparing high quality plots.
 
-This software provides tools for most common 2d and 3d plots.
-It can import data from different file types and preprocess and clean them.
-For detail tool list, check table below
+This software provides features for the most common 2d and 3d plots.
+It can import data from different file types, preprocess, clean, analyze, and visualize them.
+
+Main features of AsanPlot are:
+​* Data preprocessing
+* 2D and 3D plotting
+* Plot customization
+* Data analysis
+* Signal processing
+* Map plotting
+
+For detail list of features, check features section below.
 
 :Name: AsanPlot
 :Description: Plotting software based on Matplotlib
@@ -62,7 +71,7 @@ Feature                                    Status
 Line                                       [+]
 Scatter                                    [+]
 Bar                                        [+]
-Contour/surface                            [+]
+Contour                                    [+]
 Arrow                                      [+]
 Polar                                      [+]
 Errorbar                                   [+]
@@ -75,7 +84,7 @@ Feature                                    Status
 ========================================   ======
 Line                                       [+]
 Scatter                                    [+]
-Contour                                    [+]
+Contour/surface                            [+]
 ========================================   ======
 
 **Customize Plot**
