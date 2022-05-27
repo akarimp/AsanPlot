@@ -23,7 +23,7 @@ For detail list of features, check features section below.
 :Version: 1.1
 :Requirements: Windows 10 - 64 bit
 :Developer: Arash Karimpour (http://www.arashkarimpour.com)
-:Report Issues: https://github.com/akarimp/oceanlyz/issues
+:Report Issues: https://github.com/akarimp/AsanPlot/issues
 
 |
 .. Figure:: figures/AsanPlot_Screenshot.jpg
