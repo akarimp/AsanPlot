@@ -23,6 +23,7 @@ For detail list of features, check features section below.
 :Version: 1.1
 :Requirements: Windows 10 - 64 bit
 :Developer: Arash Karimpour (http://www.arashkarimpour.com)
+:Tutorial Video: `YouTube Playlist <https://www.youtube.com/playlist?list=PLcrFHi9M_GZQBazeFl9zxbrS48gK15gS4>`_
 :Report Issues: https://github.com/akarimp/AsanPlot/issues
 
 |
